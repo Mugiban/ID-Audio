@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 66bcb2c143c43634f89d64f7aa58ac8d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Circle Border - 20px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2064
+      y: 1034
+      width: 1024
+      height: 1024
+    spriteID: 4fc171ecd0fd4174480c4310afad6778
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2064, y: 1034}
+  - name: Circle Filled
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2064
+      y: 2064
+      width: 1022
+      height: 1022
+    spriteID: 4a3ae3447e502364988b6cb04e817349
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2064, y: 2064}
+  - name: Circle Border - 140px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1022
+      height: 1022
+    spriteID: e7437707797cd0b4082ed72e73ff30e8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Circle Border - 120px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1034
+      width: 1022
+      height: 1022
+    spriteID: a69261214f2473a4b90178f895eb6473
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1034}
+  - name: Circle Border - 100px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2064
+      width: 1022
+      height: 1022
+    spriteID: cc5c79356dcf7644c94e6e667689ffe4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2064}
+  - name: Circle Border - 80px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1034
+      y: 4
+      width: 1022
+      height: 1022
+    spriteID: 85b4d790c12f47b448372d5aada1c196
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1034, y: 4}
+  - name: Circle Border - 60px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1034
+      y: 1034
+      width: 1022
+      height: 1022
+    spriteID: a55286ca70b0896488918afbf61b821f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1034, y: 1034}
+  - name: Circle Border Dashed - 40px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1034
+      y: 2064
+      width: 1022
+      height: 1020
+    spriteID: 18ff1c87ebce7db4fba739bbdaaf3ada
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1034, y: 2064}
+  - name: Circle Border - 40px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2064
+      y: 4
+      width: 1022
+      height: 1022
+    spriteID: 9d2b0d4dcb05d3d41935df9477a407bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2064, y: 4}
+  rigSpriteImportData:
+  - name: Circle Filled - 3px
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1024
+      height: 1024
+    spriteID: e1d0c4bcbd9fd934ea923b8eee58ca82
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1022, y: 1022}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 0
+  mosaicPSDLayers:
+  - name: Circle Border - 140px
+    spriteName: Circle Border - 140px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e7437707797cd0b4082ed72e73ff30e8
+    layerID: 10
+    mosaicPosition: {x: 4, y: 4}
+  - name: Circle Border - 120px
+    spriteName: Circle Border - 120px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a69261214f2473a4b90178f895eb6473
+    layerID: 11
+    mosaicPosition: {x: 4, y: 1034}
+  - name: Circle Border - 100px
+    spriteName: Circle Border - 100px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cc5c79356dcf7644c94e6e667689ffe4
+    layerID: 9
+    mosaicPosition: {x: 4, y: 2064}
+  - name: Circle Border - 80px
+    spriteName: Circle Border - 80px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 85b4d790c12f47b448372d5aada1c196
+    layerID: 8
+    mosaicPosition: {x: 1034, y: 4}
+  - name: Circle Border - 60px
+    spriteName: Circle Border - 60px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a55286ca70b0896488918afbf61b821f
+    layerID: 7
+    mosaicPosition: {x: 1034, y: 1034}
+  - name: Circle Border Dashed - 40px
+    spriteName: Circle Border Dashed - 40px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 18ff1c87ebce7db4fba739bbdaaf3ada
+    layerID: 12
+    mosaicPosition: {x: 1034, y: 2064}
+  - name: Circle Border - 40px
+    spriteName: Circle Border - 40px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9d2b0d4dcb05d3d41935df9477a407bf
+    layerID: 6
+    mosaicPosition: {x: 2064, y: 4}
+  - name: Circle Border - 20px
+    spriteName: Circle Border - 20px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4fc171ecd0fd4174480c4310afad6778
+    layerID: 5
+    mosaicPosition: {x: 2064, y: 1034}
+  - name: Circle Filled
+    spriteName: Circle Filled
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4a3ae3447e502364988b6cb04e817349
+    layerID: 4
+    mosaicPosition: {x: 2064, y: 2064}
+  rigPSDLayers:
+  - name: Circle Filled - 3px
+    spriteName: Circle Filled - 3px
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1d0c4bcbd9fd934ea923b8eee58ca82
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Circle Border Texture
+  prefabAssetName: Circle Border Prefab
+  spriteLibAssetName: Circle Border Sprite Lib
+  secondarySpriteTextures: []
